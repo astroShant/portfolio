@@ -24,7 +24,7 @@ nav {
 }
 
 .logo {
-    color: black;
+    color: white;
     font-size: 35px;
     letter-spacing: 1px;
     cursor: pointer;
@@ -41,7 +41,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: black;
+    color: white;
     text-decoration: none;
     font-weight: bold;
     text-transform: capitalize;
@@ -54,7 +54,7 @@ nav ul li a:hover {
 
 .btn {
     background-color: #f9004d;
-    color: black;
+    color: white;
     text-decoration: none;
     border: 2px solid transparent;
     font-weight: bold;
